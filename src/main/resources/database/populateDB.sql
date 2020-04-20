@@ -1,0 +1,1 @@
+INSERT INTO ads VALUES (1, 'tess', 5.0, '9999-12-31 23:59:59', 'https://extxe.com/wp-content/uploads/2019/04/%D0%BB%D0%B5%D1%81-1.jpg');
